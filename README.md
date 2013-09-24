@@ -1,4 +1,0 @@
-practica-
-=========
-
-practica para github
